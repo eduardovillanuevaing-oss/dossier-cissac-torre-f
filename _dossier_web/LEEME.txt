@@ -1,0 +1,48 @@
+====================================================================
+  DOSSIER DE CALIDAD CISSAC TORRE F  -  PAGINA WEB DE VISUALIZACION
+  SUN FIRE SAC  |  Obra N° 1225-26
+====================================================================
+
+1) COMO ABRIR LA PAGINA
+   - Haz doble clic en el archivo  "index.html"  (esta en esta misma
+     carpeta del Dossier, un nivel arriba de este archivo).
+   - Se abre en tu navegador (Chrome, Edge, etc.). No necesita internet.
+   - Puedes navegar por las carpetas, ver cada documento dentro de la
+     pagina y descargarlo.
+
+2) COLOCAR EL LOGO DE SUN FIRE SAC
+   - Guarda el logo en esta carpeta (_dossier_web) con el nombre EXACTO:
+        logo-sunfire.png
+   - Formato recomendado: PNG con fondo transparente.
+   - Mientras no exista, la pagina muestra un logo de texto provisional.
+
+3) IMAGENES DE FONDO DEL PROYECTO (opcional)
+   - El fondo actual es institucional (sin fotos), para evitar usar
+     imagenes equivocadas. Si quieres fotos/renders del edificio,
+     entregaselas a quien mantiene la pagina para integrarlas.
+
+4) ACTUALIZAR EL INDICE CUANDO AGREGUES O QUITES DOCUMENTOS
+   La pagina muestra una "foto" del contenido al momento de generarla.
+   Si agregas o eliminas archivos en las carpetas (00, 01, 02, ...),
+   debes regenerar el indice:
+
+   OPCION A (la mas simple):
+     - Pidele a Claude/Cowork:  "actualiza el indice del dossier".
+
+   OPCION B (tu mismo, con Windows):
+     - Clic derecho en  "Actualizar-Indice.ps1"  ->  "Ejecutar con PowerShell".
+     - Si Windows lo bloquea, abre PowerShell y ejecuta una vez:
+         Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+       y vuelve a ejecutar el script.
+     - Luego recarga (F5) la pagina index.html.
+
+5) QUE NO DEBES BORRAR
+   - La carpeta  _dossier_web  (contiene el indice, el logo y el script).
+   - El archivo  index.html.
+   Los documentos del Dossier (PDFs, etc.) puedes moverlos libremente;
+   solo recuerda regenerar el indice despues (paso 4).
+
+--------------------------------------------------------------------
+Nota: La pagina es solo para visualizacion y descarga. La validez
+oficial corresponde a los documentos firmados del Dossier.
+--------------------------------------------------------------------
