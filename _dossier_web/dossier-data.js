@@ -1,5 +1,5 @@
 window.DOSSIER_DATA = {
- "generated": "16/06/2026 04:46",
+ "generated": "16/06/2026 16:15",
  "totalFiles": 121,
  "backgrounds": [
   "_dossier_web/bg/casaparq-cerro-colorado-arequipa-cissac-scaled.jpg",
@@ -1190,21 +1190,12 @@ window.DOSSIER_DATA = {
         }
        ],
        "nfiles": 23
-      },
-      {
-       "name": "Respuesta.docx",
-       "type": "file",
-       "path": "01. FICHAS TECNICAS/Tableros Electricos/Respuesta.docx",
-       "ext": "docx",
-       "size": 24776,
-       "sizeh": "24.2 KB",
-       "viewable": false
       }
      ],
-     "nfiles": 51
+     "nfiles": 50
     }
    ],
-   "nfiles": 118
+   "nfiles": 117
   },
   {
    "name": "02. CARTA DE GARANTIA MATERIALES",
@@ -1242,6 +1233,15 @@ window.DOSSIER_DATA = {
      "viewable": true
     },
     {
+     "name": "MLO-034-2026 ANEMOMETRO SUN FIRE.pdf",
+     "type": "file",
+     "path": "04. CERTIFICADO DE EQUIPO DE CALIBRACION/MLO-034-2026 ANEMOMETRO SUN FIRE.pdf",
+     "ext": "pdf",
+     "size": 830944,
+     "sizeh": "811.5 KB",
+     "viewable": true
+    },
+    {
      "name": "MLP-329-2025 MANOMETRO SUN FIRE 300 PSI.pdf",
      "type": "file",
      "path": "04. CERTIFICADO DE EQUIPO DE CALIBRACION/MLP-329-2025 MANOMETRO SUN FIRE 300 PSI.pdf",
@@ -1251,7 +1251,7 @@ window.DOSSIER_DATA = {
      "viewable": true
     }
    ],
-   "nfiles": 2
+   "nfiles": 3
   },
   {
    "name": "05. CARTA DE GARANTIA DEL SISTEMA",
