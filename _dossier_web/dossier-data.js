@@ -1,5 +1,5 @@
 window.DOSSIER_DATA = {
- "generated": "16/06/2026 16:15",
+ "generated": "16/06/2026 16:22",
  "totalFiles": 121,
  "backgrounds": [
   "_dossier_web/bg/casaparq-cerro-colorado-arequipa-cissac-scaled.jpg",
@@ -721,58 +721,6 @@ window.DOSSIER_DATA = {
      "type": "folder",
      "children": [
       {
-       "name": "Planos",
-       "type": "folder",
-       "children": [
-        {
-         "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (ACI).pdf",
-         "type": "file",
-         "path": "01. FICHAS TECNICAS/Tableros Electricos/Planos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (ACI).pdf",
-         "ext": "pdf",
-         "size": 825637,
-         "sizeh": "806.3 KB",
-         "viewable": true
-        },
-        {
-         "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX01).pdf",
-         "type": "file",
-         "path": "01. FICHAS TECNICAS/Tableros Electricos/Planos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX01).pdf",
-         "ext": "pdf",
-         "size": 882948,
-         "sizeh": "862.3 KB",
-         "viewable": true
-        },
-        {
-         "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX02).pdf",
-         "type": "file",
-         "path": "01. FICHAS TECNICAS/Tableros Electricos/Planos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX02).pdf",
-         "ext": "pdf",
-         "size": 868394,
-         "sizeh": "848.0 KB",
-         "viewable": true
-        },
-        {
-         "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VCB).pdf",
-         "type": "file",
-         "path": "01. FICHAS TECNICAS/Tableros Electricos/Planos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VCB).pdf",
-         "ext": "pdf",
-         "size": 838535,
-         "sizeh": "818.9 KB",
-         "viewable": true
-        },
-        {
-         "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VV).pdf",
-         "type": "file",
-         "path": "01. FICHAS TECNICAS/Tableros Electricos/Planos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VV).pdf",
-         "ext": "pdf",
-         "size": 976482,
-         "sizeh": "953.6 KB",
-         "viewable": true
-        }
-       ],
-       "nfiles": 5
-      },
-      {
        "name": "Tablero BCI",
        "type": "folder",
        "children": [
@@ -1192,10 +1140,10 @@ window.DOSSIER_DATA = {
        "nfiles": 23
       }
      ],
-     "nfiles": 50
+     "nfiles": 45
     }
    ],
-   "nfiles": 117
+   "nfiles": 112
   },
   {
    "name": "02. CARTA DE GARANTIA MATERIALES",
@@ -1280,8 +1228,61 @@ window.DOSSIER_DATA = {
   {
    "name": "09. PLANOS AS BUILT",
    "type": "folder",
-   "children": [],
-   "nfiles": 0
+   "children": [
+    {
+     "name": "Tableros Electricos",
+     "type": "folder",
+     "children": [
+      {
+       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (ACI).pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (ACI).pdf",
+       "ext": "pdf",
+       "size": 825637,
+       "sizeh": "806.3 KB",
+       "viewable": true
+      },
+      {
+       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX01).pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX01).pdf",
+       "ext": "pdf",
+       "size": 882948,
+       "sizeh": "862.3 KB",
+       "viewable": true
+      },
+      {
+       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX02).pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX02).pdf",
+       "ext": "pdf",
+       "size": 868394,
+       "sizeh": "848.0 KB",
+       "viewable": true
+      },
+      {
+       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VCB).pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VCB).pdf",
+       "ext": "pdf",
+       "size": 838535,
+       "sizeh": "818.9 KB",
+       "viewable": true
+      },
+      {
+       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VV).pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VV).pdf",
+       "ext": "pdf",
+       "size": 976482,
+       "sizeh": "953.6 KB",
+       "viewable": true
+      }
+     ],
+     "nfiles": 5
+    }
+   ],
+   "nfiles": 5
   }
  ]
 };
