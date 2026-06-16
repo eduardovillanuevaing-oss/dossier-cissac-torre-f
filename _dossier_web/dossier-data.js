@@ -1,6 +1,6 @@
 window.DOSSIER_DATA = {
- "generated": "16/06/2026 02:38",
- "totalFiles": 120,
+ "generated": "16/06/2026 04:46",
+ "totalFiles": 121,
  "backgrounds": [
   "_dossier_web/bg/casaparq-cerro-colorado-arequipa-cissac-scaled.jpg",
   "_dossier_web/bg/PARQUE-CENTRAL.jpg"
@@ -1209,8 +1209,18 @@ window.DOSSIER_DATA = {
   {
    "name": "02. CARTA DE GARANTIA MATERIALES",
    "type": "folder",
-   "children": [],
-   "nfiles": 0
+   "children": [
+    {
+     "name": "SIPA-CGC-2026-004_NEVADOS CASAPARQ TORRE F.pdf",
+     "type": "file",
+     "path": "02. CARTA DE GARANTIA MATERIALES/SIPA-CGC-2026-004_NEVADOS CASAPARQ TORRE F.pdf",
+     "ext": "pdf",
+     "size": 117418,
+     "sizeh": "114.7 KB",
+     "viewable": true
+    }
+   ],
+   "nfiles": 1
   },
   {
    "name": "03. PROTOCOLOS Y PRUEBAS",
