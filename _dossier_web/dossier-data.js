@@ -1,6 +1,6 @@
 window.DOSSIER_DATA = {
- "generated": "16/06/2026 16:22",
- "totalFiles": 121,
+ "generated": "26/06/2026 22:03",
+ "totalFiles": 160,
  "backgrounds": [
   "_dossier_web/bg/casaparq-cerro-colorado-arequipa-cissac-scaled.jpg",
   "_dossier_web/bg/PARQUE-CENTRAL.jpg"
@@ -9,8 +9,63 @@ window.DOSSIER_DATA = {
   {
    "name": "00. ACTA DE RECEPCION",
    "type": "folder",
-   "children": [],
-   "nfiles": 0
+   "children": [
+    {
+     "name": "ACTA DE RECEPCIÓN SISTEMA DE AGUA CONTRA INCENDIOS.pdf",
+     "type": "file",
+     "path": "00. ACTA DE RECEPCION/ACTA DE RECEPCIÓN SISTEMA DE AGUA CONTRA INCENDIOS.pdf",
+     "ext": "pdf",
+     "size": 134779,
+     "sizeh": "131.6 KB",
+     "viewable": true
+    },
+    {
+     "name": "ACTA DE RECEPCIÓN SISTEMA DE DETECCIÓN Y ALARMA DE INCENDIOS.pdf",
+     "type": "file",
+     "path": "00. ACTA DE RECEPCION/ACTA DE RECEPCIÓN SISTEMA DE DETECCIÓN Y ALARMA DE INCENDIOS.pdf",
+     "ext": "pdf",
+     "size": 129960,
+     "sizeh": "126.9 KB",
+     "viewable": true
+    },
+    {
+     "name": "ACTA DE RECEPCIÓN SISTEMA DE EXTRACCIÓN DE MONÓXIDO DE CARBONO.pdf",
+     "type": "file",
+     "path": "00. ACTA DE RECEPCION/ACTA DE RECEPCIÓN SISTEMA DE EXTRACCIÓN DE MONÓXIDO DE CARBONO.pdf",
+     "ext": "pdf",
+     "size": 125225,
+     "sizeh": "122.3 KB",
+     "viewable": true
+    },
+    {
+     "name": "ACTA DE RECEPCIÓN SISTEMA DE VENTILACION DE BAÑO.pdf",
+     "type": "file",
+     "path": "00. ACTA DE RECEPCION/ACTA DE RECEPCIÓN SISTEMA DE VENTILACION DE BAÑO.pdf",
+     "ext": "pdf",
+     "size": 126573,
+     "sizeh": "123.6 KB",
+     "viewable": true
+    },
+    {
+     "name": "ACTA DE RECEPCIÓN SISTEMA DE VENTILACION DE CUARTO DE BOMBAS.pdf",
+     "type": "file",
+     "path": "00. ACTA DE RECEPCION/ACTA DE RECEPCIÓN SISTEMA DE VENTILACION DE CUARTO DE BOMBAS.pdf",
+     "ext": "pdf",
+     "size": 131450,
+     "sizeh": "128.4 KB",
+     "viewable": true
+    },
+    {
+     "name": "ACTA DE RECEPCIÓN SISTEMA DE VENTILACION DE VESTIBULOS.pdf",
+     "type": "file",
+     "path": "00. ACTA DE RECEPCION/ACTA DE RECEPCIÓN SISTEMA DE VENTILACION DE VESTIBULOS.pdf",
+     "ext": "pdf",
+     "size": 133609,
+     "sizeh": "130.5 KB",
+     "viewable": true
+    }
+   ],
+   "nfiles": 6
   },
   {
    "name": "01. FICHAS TECNICAS",
@@ -1164,8 +1219,162 @@ window.DOSSIER_DATA = {
   {
    "name": "03. PROTOCOLOS Y PRUEBAS",
    "type": "folder",
-   "children": [],
-   "nfiles": 0
+   "children": [
+    {
+     "name": "PP DE MEDICION DE CAUDALES DE SISTEMA DE CUARTO DE BOMBA EXTRACCION DE HUMOS.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PP DE MEDICION DE CAUDALES DE SISTEMA DE CUARTO DE BOMBA EXTRACCION DE HUMOS.pdf",
+     "ext": "pdf",
+     "size": 153049,
+     "sizeh": "149.5 KB",
+     "viewable": true
+    },
+    {
+     "name": "PP DE MEDICION DE CAUDALES DE SISTEMA DE CUARTO DE BOMBA INYECCION DE AIRE LIMPIO.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PP DE MEDICION DE CAUDALES DE SISTEMA DE CUARTO DE BOMBA INYECCION DE AIRE LIMPIO.pdf",
+     "ext": "pdf",
+     "size": 150042,
+     "sizeh": "146.5 KB",
+     "viewable": true
+    },
+    {
+     "name": "PP DE MEDICION DE CAUDALES DE SISTEMA DE VENTILACION DE VESTIBULOS INYECCION DE AIRE LIMPIO.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PP DE MEDICION DE CAUDALES DE SISTEMA DE VENTILACION DE VESTIBULOS INYECCION DE AIRE LIMPIO.pdf",
+     "ext": "pdf",
+     "size": 164096,
+     "sizeh": "160.2 KB",
+     "viewable": true
+    },
+    {
+     "name": "PPH TUBERÍA ENTERRADA C-900-N°01.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PPH TUBERÍA ENTERRADA C-900-N°01.pdf",
+     "ext": "pdf",
+     "size": 218738,
+     "sizeh": "213.6 KB",
+     "viewable": true
+    },
+    {
+     "name": "PPH TUBERÍA ENTERRADA C-900-N°02.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PPH TUBERÍA ENTERRADA C-900-N°02.pdf",
+     "ext": "pdf",
+     "size": 216514,
+     "sizeh": "211.4 KB",
+     "viewable": true
+    },
+    {
+     "name": "PPH TUBERÍA ENTERRADA C-900-N°03.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PPH TUBERÍA ENTERRADA C-900-N°03.pdf",
+     "ext": "pdf",
+     "size": 219208,
+     "sizeh": "214.1 KB",
+     "viewable": true
+    },
+    {
+     "name": "PROTOCOLO DE PROCEDIMIENTOS PARA INSTALACION Y MONTAJE DE TUBERÍAS.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PROCEDIMIENTOS PARA INSTALACION Y MONTAJE DE TUBERÍAS.pdf",
+     "ext": "pdf",
+     "size": 134559,
+     "sizeh": "131.4 KB",
+     "viewable": true
+    },
+    {
+     "name": "PROTOCOLO DE PRUEBA DACI - CUARTO DE BOMBA, ESTACIONAMIENTO P1,P2,P3 - ETAPA F.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBA DACI - CUARTO DE BOMBA, ESTACIONAMIENTO P1,P2,P3 - ETAPA F.pdf",
+     "ext": "pdf",
+     "size": 136385,
+     "sizeh": "133.2 KB",
+     "viewable": true
+    },
+    {
+     "name": "PROTOCOLO DE PRUEBA DACI - DEPARTAMENTOS Y AREA COMUNES - TORRE F.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBA DACI - DEPARTAMENTOS Y AREA COMUNES - TORRE F.pdf",
+     "ext": "pdf",
+     "size": 143076,
+     "sizeh": "139.7 KB",
+     "viewable": true
+    },
+    {
+     "name": "PROTOCOLO DE PRUEBA DE MEDICION DE CAUDALES SISTEMA DE PRESURIZACION DE ESCALERAS.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBA DE MEDICION DE CAUDALES SISTEMA DE PRESURIZACION DE ESCALERAS.pdf",
+     "ext": "pdf",
+     "size": 144843,
+     "sizeh": "141.4 KB",
+     "viewable": true
+    },
+    {
+     "name": "PROTOCOLO DE PRUEBA RED DE TUBERIAS Y MANGUERAS.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBA RED DE TUBERIAS Y MANGUERAS.pdf",
+     "ext": "pdf",
+     "size": 166877,
+     "sizeh": "163.0 KB",
+     "viewable": true
+    },
+    {
+     "name": "PROTOCOLO DE PRUEBAS ELECTRICAS DE VENTILACION DE CUARTO DE BOMBA.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBAS ELECTRICAS DE VENTILACION DE CUARTO DE BOMBA.pdf",
+     "ext": "pdf",
+     "size": 144677,
+     "sizeh": "141.3 KB",
+     "viewable": true
+    },
+    {
+     "name": "PROTOCOLO DE PRUEBAS ELECTRICAS DE VENTILACION DE VESTIBULO Y PRESURIZACION DE ESCALERAS.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBAS ELECTRICAS DE VENTILACION DE VESTIBULO Y PRESURIZACION DE ESCALERAS.pdf",
+     "ext": "pdf",
+     "size": 146135,
+     "sizeh": "142.7 KB",
+     "viewable": true
+    },
+    {
+     "name": "PROTOCOLO PRUEBA HIDROSTATICA - ESTACIONAMIENTO PISO 01 - ETAPA F.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO PRUEBA HIDROSTATICA - ESTACIONAMIENTO PISO 01 - ETAPA F.pdf",
+     "ext": "pdf",
+     "size": 140691,
+     "sizeh": "137.4 KB",
+     "viewable": true
+    },
+    {
+     "name": "PROTOCOLO PRUEBA HIDROSTATICA - ESTACIONAMIENTO PISO 02 - ETAPA F.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO PRUEBA HIDROSTATICA - ESTACIONAMIENTO PISO 02 - ETAPA F.pdf",
+     "ext": "pdf",
+     "size": 140686,
+     "sizeh": "137.4 KB",
+     "viewable": true
+    },
+    {
+     "name": "PROTOCOLO PRUEBA HIDROSTATICA - MONTANTE TORRE F.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO PRUEBA HIDROSTATICA - MONTANTE TORRE F.pdf",
+     "ext": "pdf",
+     "size": 140630,
+     "sizeh": "137.3 KB",
+     "viewable": true
+    },
+    {
+     "name": "ROTOCOLO PRUEBA HIDROSTATICA - MONTANTE DE ESTACIONAMIENTO - ETAPA F.pdf",
+     "type": "file",
+     "path": "03. PROTOCOLOS Y PRUEBAS/ROTOCOLO PRUEBA HIDROSTATICA - MONTANTE DE ESTACIONAMIENTO - ETAPA F.pdf",
+     "ext": "pdf",
+     "size": 140756,
+     "sizeh": "137.5 KB",
+     "viewable": true
+    }
+   ],
+   "nfiles": 17
   },
   {
    "name": "04. CERTIFICADO DE EQUIPO DE CALIBRACION",
@@ -1204,26 +1413,174 @@ window.DOSSIER_DATA = {
   {
    "name": "05. CARTA DE GARANTIA DEL SISTEMA",
    "type": "folder",
-   "children": [],
-   "nfiles": 0
+   "children": [
+    {
+     "name": "CARTA DE GARANTIA.pdf",
+     "type": "file",
+     "path": "05. CARTA DE GARANTIA DEL SISTEMA/CARTA DE GARANTIA.pdf",
+     "ext": "pdf",
+     "size": 131431,
+     "sizeh": "128.4 KB",
+     "viewable": true
+    }
+   ],
+   "nfiles": 1
   },
   {
    "name": "06. CERTIFICADO DE OPERATIVIDAD",
    "type": "folder",
-   "children": [],
-   "nfiles": 0
+   "children": [
+    {
+     "name": "CERTIFICADO DE LAVADO DE TUBERÍAS .pdf",
+     "type": "file",
+     "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE LAVADO DE TUBERÍAS .pdf",
+     "ext": "pdf",
+     "size": 133118,
+     "sizeh": "130.0 KB",
+     "viewable": true
+    },
+    {
+     "name": "CERTIFICADO DE OPERATIVIDAD SISTEMA DE AGUA CONTRA INCENDIOS.pdf",
+     "type": "file",
+     "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE AGUA CONTRA INCENDIOS.pdf",
+     "ext": "pdf",
+     "size": 127884,
+     "sizeh": "124.9 KB",
+     "viewable": true
+    },
+    {
+     "name": "CERTIFICADO DE OPERATIVIDAD SISTEMA DE DETECCIÓN Y ALARMA DE INCENDIOS.pdf",
+     "type": "file",
+     "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE DETECCIÓN Y ALARMA DE INCENDIOS.pdf",
+     "ext": "pdf",
+     "size": 131744,
+     "sizeh": "128.7 KB",
+     "viewable": true
+    },
+    {
+     "name": "CERTIFICADO DE OPERATIVIDAD SISTEMA DE PRESURIZACION DE ESCALERAS.pdf",
+     "type": "file",
+     "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE PRESURIZACION DE ESCALERAS.pdf",
+     "ext": "pdf",
+     "size": 131447,
+     "sizeh": "128.4 KB",
+     "viewable": true
+    },
+    {
+     "name": "CERTIFICADO DE OPERATIVIDAD SISTEMA DE ROCIADORES.pdf",
+     "type": "file",
+     "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE ROCIADORES.pdf",
+     "ext": "pdf",
+     "size": 127783,
+     "sizeh": "124.8 KB",
+     "viewable": true
+    },
+    {
+     "name": "CERTIFICADO DE OPERATIVIDAD SISTEMA DE VENTILACION DE BAÑOS.pdf",
+     "type": "file",
+     "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE VENTILACION DE BAÑOS.pdf",
+     "ext": "pdf",
+     "size": 130075,
+     "sizeh": "127.0 KB",
+     "viewable": true
+    },
+    {
+     "name": "CERTIFICADO DE OPERATIVIDAD SISTEMA DE VENTILACION Y EXTRACCION DE CUARTO DE BOMBA.pdf",
+     "type": "file",
+     "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE VENTILACION Y EXTRACCION DE CUARTO DE BOMBA.pdf",
+     "ext": "pdf",
+     "size": 133786,
+     "sizeh": "130.7 KB",
+     "viewable": true
+    },
+    {
+     "name": "CERTIFICADO DE OPERATIVIDAD SISTEMA DE VENTILACION Y EXTRACCION DE VESTIBULOS.pdf",
+     "type": "file",
+     "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE VENTILACION Y EXTRACCION DE VESTIBULOS.pdf",
+     "ext": "pdf",
+     "size": 130502,
+     "sizeh": "127.4 KB",
+     "viewable": true
+    },
+    {
+     "name": "CERTIFICADO DE PRUEBA HIDROSTÁTICA GENERAL SISTEMA DE AGUA CONTRA INCENDIOS.pdf",
+     "type": "file",
+     "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE PRUEBA HIDROSTÁTICA GENERAL SISTEMA DE AGUA CONTRA INCENDIOS.pdf",
+     "ext": "pdf",
+     "size": 131289,
+     "sizeh": "128.2 KB",
+     "viewable": true
+    }
+   ],
+   "nfiles": 9
   },
   {
    "name": "07. MANUAL DE OPERACION",
    "type": "folder",
-   "children": [],
-   "nfiles": 0
+   "children": [
+    {
+     "name": "MANUAL DE OPERACION SISTEMA ACI.pdf",
+     "type": "file",
+     "path": "07. MANUAL DE OPERACION/MANUAL DE OPERACION SISTEMA ACI.pdf",
+     "ext": "pdf",
+     "size": 189213,
+     "sizeh": "184.8 KB",
+     "viewable": true
+    },
+    {
+     "name": "MANUAL DE OPERACION SISTEMA DACI.pdf",
+     "type": "file",
+     "path": "07. MANUAL DE OPERACION/MANUAL DE OPERACION SISTEMA DACI.pdf",
+     "ext": "pdf",
+     "size": 246652,
+     "sizeh": "240.9 KB",
+     "viewable": true
+    },
+    {
+     "name": "MANUAL DE OPERACION SISTEMA DE EXTRACCIÓN DE MONÓXIDO DE CARBONO.pdf",
+     "type": "file",
+     "path": "07. MANUAL DE OPERACION/MANUAL DE OPERACION SISTEMA DE EXTRACCIÓN DE MONÓXIDO DE CARBONO.pdf",
+     "ext": "pdf",
+     "size": 185453,
+     "sizeh": "181.1 KB",
+     "viewable": true
+    },
+    {
+     "name": "MANUAL DE OPERACION SISTEMA DE PRESURIZACIÓN DE ESCALERAS.pdf",
+     "type": "file",
+     "path": "07. MANUAL DE OPERACION/MANUAL DE OPERACION SISTEMA DE PRESURIZACIÓN DE ESCALERAS.pdf",
+     "ext": "pdf",
+     "size": 170764,
+     "sizeh": "166.8 KB",
+     "viewable": true
+    },
+    {
+     "name": "MANUAL DE OPERACION SISTEMA DE VENTILACIÓN DE VESTÍBULOS.pdf",
+     "type": "file",
+     "path": "07. MANUAL DE OPERACION/MANUAL DE OPERACION SISTEMA DE VENTILACIÓN DE VESTÍBULOS.pdf",
+     "ext": "pdf",
+     "size": 317316,
+     "sizeh": "309.9 KB",
+     "viewable": true
+    }
+   ],
+   "nfiles": 5
   },
   {
    "name": "08. CRONOGRAMA DE MANTENIMIENTO",
    "type": "folder",
-   "children": [],
-   "nfiles": 0
+   "children": [
+    {
+     "name": "CRONOGRAMA DE MANTENIMIENTO.pdf",
+     "type": "file",
+     "path": "08. CRONOGRAMA DE MANTENIMIENTO/CRONOGRAMA DE MANTENIMIENTO.pdf",
+     "ext": "pdf",
+     "size": 140640,
+     "sizeh": "137.3 KB",
+     "viewable": true
+    }
+   ],
+   "nfiles": 1
   },
   {
    "name": "09. PLANOS AS BUILT",
