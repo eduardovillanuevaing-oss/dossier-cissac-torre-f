@@ -1,5 +1,5 @@
 window.DOSSIER_DATA = {
- "generated": "27/06/2026 13:55",
+ "generated": "27/06/2026 13:58",
  "totalFiles": 161,
  "backgrounds": [
   "_dossier_web/bg/casaparq-cerro-colorado-arequipa-cissac-scaled.jpg",
