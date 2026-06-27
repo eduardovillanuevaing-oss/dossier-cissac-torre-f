@@ -1,5 +1,5 @@
 window.DOSSIER_DATA = {
- "generated": "27/06/2026 13:35",
+ "generated": "27/06/2026 13:55",
  "totalFiles": 161,
  "backgrounds": [
   "_dossier_web/bg/casaparq-cerro-colorado-arequipa-cissac-scaled.jpg",
@@ -1225,7 +1225,7 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PP DE MEDICION DE CAUDALES DE SISTEMA DE CUARTO DE BOMBA EXTRACCION DE HUMOS.pdf",
      "ext": "pdf",
-     "size": 153445,
+     "size": 153393,
      "sizeh": "149.8 KB",
      "viewable": true
     },
@@ -1234,7 +1234,7 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PP DE MEDICION DE CAUDALES DE SISTEMA DE CUARTO DE BOMBA INYECCION DE AIRE LIMPIO.pdf",
      "ext": "pdf",
-     "size": 150365,
+     "size": 150330,
      "sizeh": "146.8 KB",
      "viewable": true
     },
@@ -1243,8 +1243,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PP DE MEDICION DE CAUDALES DE SISTEMA DE VENTILACION DE VESTIBULOS EXTRACCION DE HUMOS.pdf",
      "ext": "pdf",
-     "size": 164509,
-     "sizeh": "160.7 KB",
+     "size": 164445,
+     "sizeh": "160.6 KB",
      "viewable": true
     },
     {
@@ -1252,8 +1252,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PP DE MEDICION DE CAUDALES DE SISTEMA DE VENTILACION DE VESTIBULOS INYECCION DE AIRE LIMPIO.pdf",
      "ext": "pdf",
-     "size": 164414,
-     "sizeh": "160.6 KB",
+     "size": 164350,
+     "sizeh": "160.5 KB",
      "viewable": true
     },
     {
@@ -1315,8 +1315,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBA DE MEDICION DE CAUDALES SISTEMA DE PRESURIZACION DE ESCALERAS.pdf",
      "ext": "pdf",
-     "size": 144843,
-     "sizeh": "141.4 KB",
+     "size": 145149,
+     "sizeh": "141.7 KB",
      "viewable": true
     },
     {
@@ -1333,8 +1333,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBAS ELECTRICAS DE VENTILACION DE CUARTO DE BOMBA.pdf",
      "ext": "pdf",
-     "size": 144677,
-     "sizeh": "141.3 KB",
+     "size": 144984,
+     "sizeh": "141.6 KB",
      "viewable": true
     },
     {
@@ -1342,7 +1342,7 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBAS ELECTRICAS DE VENTILACION DE VESTIBULO Y PRESURIZACION DE ESCALERAS.pdf",
      "ext": "pdf",
-     "size": 146135,
+     "size": 146114,
      "sizeh": "142.7 KB",
      "viewable": true
     },
