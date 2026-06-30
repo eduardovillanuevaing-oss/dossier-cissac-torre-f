@@ -1,6 +1,6 @@
 window.DOSSIER_DATA = {
- "generated": "27/06/2026 13:58",
- "totalFiles": 161,
+ "generated": "30/06/2026 21:15",
+ "totalFiles": 164,
  "backgrounds": [
   "_dossier_web/bg/casaparq-cerro-colorado-arequipa-cissac-scaled.jpg",
   "_dossier_web/bg/PARQUE-CENTRAL.jpg"
@@ -42,7 +42,7 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "00. ACTA DE RECEPCION/ACTA DE RECEPCIÓN SISTEMA DE VENTILACION DE BAÑO.pdf",
      "ext": "pdf",
-     "size": 126573,
+     "size": 126568,
      "sizeh": "123.6 KB",
      "viewable": true
     },
@@ -662,9 +662,36 @@ window.DOSSIER_DATA = {
          "size": 348732,
          "sizeh": "340.6 KB",
          "viewable": true
+        },
+        {
+         "name": "19. HOJA TECNICA_PLANCHAS.pdf",
+         "type": "file",
+         "path": "01. FICHAS TECNICAS/IM/Baños/19. HOJA TECNICA_PLANCHAS.pdf",
+         "ext": "pdf",
+         "size": 1647852,
+         "sizeh": "1.6 MB",
+         "viewable": true
+        },
+        {
+         "name": "CATALOGO EXTRACTOR EOLICO VE.pdf",
+         "type": "file",
+         "path": "01. FICHAS TECNICAS/IM/Baños/CATALOGO EXTRACTOR EOLICO VE.pdf",
+         "ext": "pdf",
+         "size": 1863880,
+         "sizeh": "1.8 MB",
+         "viewable": true
+        },
+        {
+         "name": "FACILFLEX Ductos flexibles.pdf",
+         "type": "file",
+         "path": "01. FICHAS TECNICAS/IM/Baños/FACILFLEX Ductos flexibles.pdf",
+         "ext": "pdf",
+         "size": 181983,
+         "sizeh": "177.7 KB",
+         "viewable": true
         }
        ],
-       "nfiles": 1
+       "nfiles": 4
       },
       {
        "name": "Cuarto de Bombas",
@@ -769,7 +796,7 @@ window.DOSSIER_DATA = {
        "nfiles": 4
       }
      ],
-     "nfiles": 10
+     "nfiles": 13
     },
     {
      "name": "Tableros Electricos",
@@ -1198,7 +1225,7 @@ window.DOSSIER_DATA = {
      "nfiles": 45
     }
    ],
-   "nfiles": 112
+   "nfiles": 115
   },
   {
    "name": "02. CARTA DE GARANTIA MATERIALES",
