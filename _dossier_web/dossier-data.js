@@ -1,6 +1,6 @@
 window.DOSSIER_DATA = {
- "generated": "30/06/2026 21:15",
- "totalFiles": 164,
+ "generated": "06/07/2026 08:48",
+ "totalFiles": 159,
  "backgrounds": [
   "_dossier_web/bg/casaparq-cerro-colorado-arequipa-cissac-scaled.jpg",
   "_dossier_web/bg/PARQUE-CENTRAL.jpg"
@@ -15,8 +15,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "00. ACTA DE RECEPCION/ACTA DE RECEPCIÓN SISTEMA DE AGUA CONTRA INCENDIOS.pdf",
      "ext": "pdf",
-     "size": 134779,
-     "sizeh": "131.6 KB",
+     "size": 230654,
+     "sizeh": "225.2 KB",
      "viewable": true
     },
     {
@@ -24,8 +24,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "00. ACTA DE RECEPCION/ACTA DE RECEPCIÓN SISTEMA DE DETECCIÓN Y ALARMA DE INCENDIOS.pdf",
      "ext": "pdf",
-     "size": 129960,
-     "sizeh": "126.9 KB",
+     "size": 100757,
+     "sizeh": "98.4 KB",
      "viewable": true
     },
     {
@@ -33,8 +33,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "00. ACTA DE RECEPCION/ACTA DE RECEPCIÓN SISTEMA DE EXTRACCIÓN DE MONÓXIDO DE CARBONO.pdf",
      "ext": "pdf",
-     "size": 125225,
-     "sizeh": "122.3 KB",
+     "size": 147447,
+     "sizeh": "144.0 KB",
      "viewable": true
     },
     {
@@ -42,8 +42,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "00. ACTA DE RECEPCION/ACTA DE RECEPCIÓN SISTEMA DE VENTILACION DE BAÑO.pdf",
      "ext": "pdf",
-     "size": 126568,
-     "sizeh": "123.6 KB",
+     "size": 139139,
+     "sizeh": "135.9 KB",
      "viewable": true
     },
     {
@@ -51,8 +51,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "00. ACTA DE RECEPCION/ACTA DE RECEPCIÓN SISTEMA DE VENTILACION DE CUARTO DE BOMBAS.pdf",
      "ext": "pdf",
-     "size": 131450,
-     "sizeh": "128.4 KB",
+     "size": 177968,
+     "sizeh": "173.8 KB",
      "viewable": true
     },
     {
@@ -60,8 +60,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "00. ACTA DE RECEPCION/ACTA DE RECEPCIÓN SISTEMA DE VENTILACION DE VESTIBULOS.pdf",
      "ext": "pdf",
-     "size": 133609,
-     "sizeh": "130.5 KB",
+     "size": 199016,
+     "sizeh": "194.4 KB",
      "viewable": true
     }
    ],
@@ -1252,8 +1252,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PP DE MEDICION DE CAUDALES DE SISTEMA DE CUARTO DE BOMBA EXTRACCION DE HUMOS.pdf",
      "ext": "pdf",
-     "size": 153393,
-     "sizeh": "149.8 KB",
+     "size": 327674,
+     "sizeh": "320.0 KB",
      "viewable": true
     },
     {
@@ -1261,8 +1261,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PP DE MEDICION DE CAUDALES DE SISTEMA DE CUARTO DE BOMBA INYECCION DE AIRE LIMPIO.pdf",
      "ext": "pdf",
-     "size": 150330,
-     "sizeh": "146.8 KB",
+     "size": 311797,
+     "sizeh": "304.5 KB",
      "viewable": true
     },
     {
@@ -1270,8 +1270,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PP DE MEDICION DE CAUDALES DE SISTEMA DE VENTILACION DE VESTIBULOS EXTRACCION DE HUMOS.pdf",
      "ext": "pdf",
-     "size": 164445,
-     "sizeh": "160.6 KB",
+     "size": 358926,
+     "sizeh": "350.5 KB",
      "viewable": true
     },
     {
@@ -1279,8 +1279,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PP DE MEDICION DE CAUDALES DE SISTEMA DE VENTILACION DE VESTIBULOS INYECCION DE AIRE LIMPIO.pdf",
      "ext": "pdf",
-     "size": 164350,
-     "sizeh": "160.5 KB",
+     "size": 353960,
+     "sizeh": "345.7 KB",
      "viewable": true
     },
     {
@@ -1288,8 +1288,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PPH TUBERÍA ENTERRADA C-900-N°01.pdf",
      "ext": "pdf",
-     "size": 218738,
-     "sizeh": "213.6 KB",
+     "size": 460965,
+     "sizeh": "450.2 KB",
      "viewable": true
     },
     {
@@ -1297,8 +1297,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PPH TUBERÍA ENTERRADA C-900-N°02.pdf",
      "ext": "pdf",
-     "size": 216514,
-     "sizeh": "211.4 KB",
+     "size": 461677,
+     "sizeh": "450.9 KB",
      "viewable": true
     },
     {
@@ -1306,8 +1306,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PPH TUBERÍA ENTERRADA C-900-N°03.pdf",
      "ext": "pdf",
-     "size": 219208,
-     "sizeh": "214.1 KB",
+     "size": 459600,
+     "sizeh": "448.8 KB",
      "viewable": true
     },
     {
@@ -1315,8 +1315,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PROCEDIMIENTOS PARA INSTALACION Y MONTAJE DE TUBERÍAS.pdf",
      "ext": "pdf",
-     "size": 134559,
-     "sizeh": "131.4 KB",
+     "size": 191580,
+     "sizeh": "187.1 KB",
      "viewable": true
     },
     {
@@ -1324,8 +1324,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBA DACI - CUARTO DE BOMBA, ESTACIONAMIENTO P1,P2,P3 - ETAPA F.pdf",
      "ext": "pdf",
-     "size": 136385,
-     "sizeh": "133.2 KB",
+     "size": 101273,
+     "sizeh": "98.9 KB",
      "viewable": true
     },
     {
@@ -1333,8 +1333,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBA DACI - DEPARTAMENTOS Y AREA COMUNES - TORRE F.pdf",
      "ext": "pdf",
-     "size": 143076,
-     "sizeh": "139.7 KB",
+     "size": 151878,
+     "sizeh": "148.3 KB",
      "viewable": true
     },
     {
@@ -1342,8 +1342,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBA DE MEDICION DE CAUDALES SISTEMA DE PRESURIZACION DE ESCALERAS.pdf",
      "ext": "pdf",
-     "size": 145149,
-     "sizeh": "141.7 KB",
+     "size": 304087,
+     "sizeh": "297.0 KB",
      "viewable": true
     },
     {
@@ -1351,8 +1351,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBA RED DE TUBERIAS Y MANGUERAS.pdf",
      "ext": "pdf",
-     "size": 166877,
-     "sizeh": "163.0 KB",
+     "size": 290447,
+     "sizeh": "283.6 KB",
      "viewable": true
     },
     {
@@ -1360,8 +1360,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBAS ELECTRICAS DE VENTILACION DE CUARTO DE BOMBA.pdf",
      "ext": "pdf",
-     "size": 144984,
-     "sizeh": "141.6 KB",
+     "size": 181182,
+     "sizeh": "176.9 KB",
      "viewable": true
     },
     {
@@ -1369,8 +1369,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO DE PRUEBAS ELECTRICAS DE VENTILACION DE VESTIBULO Y PRESURIZACION DE ESCALERAS.pdf",
      "ext": "pdf",
-     "size": 146114,
-     "sizeh": "142.7 KB",
+     "size": 185593,
+     "sizeh": "181.2 KB",
      "viewable": true
     },
     {
@@ -1378,8 +1378,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO PRUEBA HIDROSTATICA - ESTACIONAMIENTO PISO 01 - ETAPA F.pdf",
      "ext": "pdf",
-     "size": 140691,
-     "sizeh": "137.4 KB",
+     "size": 231687,
+     "sizeh": "226.3 KB",
      "viewable": true
     },
     {
@@ -1387,8 +1387,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO PRUEBA HIDROSTATICA - ESTACIONAMIENTO PISO 02 - ETAPA F.pdf",
      "ext": "pdf",
-     "size": 140686,
-     "sizeh": "137.4 KB",
+     "size": 230547,
+     "sizeh": "225.1 KB",
      "viewable": true
     },
     {
@@ -1396,8 +1396,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/PROTOCOLO PRUEBA HIDROSTATICA - MONTANTE TORRE F.pdf",
      "ext": "pdf",
-     "size": 140630,
-     "sizeh": "137.3 KB",
+     "size": 223370,
+     "sizeh": "218.1 KB",
      "viewable": true
     },
     {
@@ -1405,8 +1405,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "03. PROTOCOLOS Y PRUEBAS/ROTOCOLO PRUEBA HIDROSTATICA - MONTANTE DE ESTACIONAMIENTO - ETAPA F.pdf",
      "ext": "pdf",
-     "size": 140756,
-     "sizeh": "137.5 KB",
+     "size": 230630,
+     "sizeh": "225.2 KB",
      "viewable": true
     }
    ],
@@ -1455,8 +1455,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "05. CARTA DE GARANTIA DEL SISTEMA/CARTA DE GARANTIA.pdf",
      "ext": "pdf",
-     "size": 131431,
-     "sizeh": "128.4 KB",
+     "size": 85536,
+     "sizeh": "83.5 KB",
      "viewable": true
     }
    ],
@@ -1471,8 +1471,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE LAVADO DE TUBERÍAS .pdf",
      "ext": "pdf",
-     "size": 133118,
-     "sizeh": "130.0 KB",
+     "size": 213251,
+     "sizeh": "208.3 KB",
      "viewable": true
     },
     {
@@ -1480,8 +1480,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE AGUA CONTRA INCENDIOS.pdf",
      "ext": "pdf",
-     "size": 127884,
-     "sizeh": "124.9 KB",
+     "size": 182023,
+     "sizeh": "177.8 KB",
      "viewable": true
     },
     {
@@ -1489,8 +1489,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE DETECCIÓN Y ALARMA DE INCENDIOS.pdf",
      "ext": "pdf",
-     "size": 131744,
-     "sizeh": "128.7 KB",
+     "size": 93775,
+     "sizeh": "91.6 KB",
      "viewable": true
     },
     {
@@ -1498,8 +1498,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE PRESURIZACION DE ESCALERAS.pdf",
      "ext": "pdf",
-     "size": 131447,
-     "sizeh": "128.4 KB",
+     "size": 179210,
+     "sizeh": "175.0 KB",
      "viewable": true
     },
     {
@@ -1507,8 +1507,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE ROCIADORES.pdf",
      "ext": "pdf",
-     "size": 127783,
-     "sizeh": "124.8 KB",
+     "size": 179413,
+     "sizeh": "175.2 KB",
      "viewable": true
     },
     {
@@ -1516,8 +1516,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE VENTILACION DE BAÑOS.pdf",
      "ext": "pdf",
-     "size": 130075,
-     "sizeh": "127.0 KB",
+     "size": 172538,
+     "sizeh": "168.5 KB",
      "viewable": true
     },
     {
@@ -1525,8 +1525,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE VENTILACION Y EXTRACCION DE CUARTO DE BOMBA.pdf",
      "ext": "pdf",
-     "size": 133786,
-     "sizeh": "130.7 KB",
+     "size": 193519,
+     "sizeh": "189.0 KB",
      "viewable": true
     },
     {
@@ -1534,8 +1534,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE OPERATIVIDAD SISTEMA DE VENTILACION Y EXTRACCION DE VESTIBULOS.pdf",
      "ext": "pdf",
-     "size": 130502,
-     "sizeh": "127.4 KB",
+     "size": 174915,
+     "sizeh": "170.8 KB",
      "viewable": true
     },
     {
@@ -1543,8 +1543,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "06. CERTIFICADO DE OPERATIVIDAD/CERTIFICADO DE PRUEBA HIDROSTÁTICA GENERAL SISTEMA DE AGUA CONTRA INCENDIOS.pdf",
      "ext": "pdf",
-     "size": 131289,
-     "sizeh": "128.2 KB",
+     "size": 184986,
+     "sizeh": "180.7 KB",
      "viewable": true
     }
    ],
@@ -1559,8 +1559,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "07. MANUAL DE OPERACION/MANUAL DE OPERACION SISTEMA ACI.pdf",
      "ext": "pdf",
-     "size": 189213,
-     "sizeh": "184.8 KB",
+     "size": 193072,
+     "sizeh": "188.5 KB",
      "viewable": true
     },
     {
@@ -1568,8 +1568,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "07. MANUAL DE OPERACION/MANUAL DE OPERACION SISTEMA DACI.pdf",
      "ext": "pdf",
-     "size": 246652,
-     "sizeh": "240.9 KB",
+     "size": 273353,
+     "sizeh": "266.9 KB",
      "viewable": true
     },
     {
@@ -1577,8 +1577,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "07. MANUAL DE OPERACION/MANUAL DE OPERACION SISTEMA DE EXTRACCIÓN DE MONÓXIDO DE CARBONO.pdf",
      "ext": "pdf",
-     "size": 185453,
-     "sizeh": "181.1 KB",
+     "size": 151823,
+     "sizeh": "148.3 KB",
      "viewable": true
     },
     {
@@ -1586,8 +1586,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "07. MANUAL DE OPERACION/MANUAL DE OPERACION SISTEMA DE PRESURIZACIÓN DE ESCALERAS.pdf",
      "ext": "pdf",
-     "size": 170764,
-     "sizeh": "166.8 KB",
+     "size": 94747,
+     "sizeh": "92.5 KB",
      "viewable": true
     },
     {
@@ -1595,8 +1595,8 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "07. MANUAL DE OPERACION/MANUAL DE OPERACION SISTEMA DE VENTILACIÓN DE VESTÍBULOS.pdf",
      "ext": "pdf",
-     "size": 317316,
-     "sizeh": "309.9 KB",
+     "size": 163567,
+     "sizeh": "159.7 KB",
      "viewable": true
     }
    ],
@@ -1611,71 +1611,12 @@ window.DOSSIER_DATA = {
      "type": "file",
      "path": "08. CRONOGRAMA DE MANTENIMIENTO/CRONOGRAMA DE MANTENIMIENTO.pdf",
      "ext": "pdf",
-     "size": 140640,
-     "sizeh": "137.3 KB",
+     "size": 310329,
+     "sizeh": "303.1 KB",
      "viewable": true
     }
    ],
    "nfiles": 1
-  },
-  {
-   "name": "09. PLANOS AS BUILT",
-   "type": "folder",
-   "children": [
-    {
-     "name": "Tableros Electricos",
-     "type": "folder",
-     "children": [
-      {
-       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (ACI).pdf",
-       "type": "file",
-       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (ACI).pdf",
-       "ext": "pdf",
-       "size": 825637,
-       "sizeh": "806.3 KB",
-       "viewable": true
-      },
-      {
-       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX01).pdf",
-       "type": "file",
-       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX01).pdf",
-       "ext": "pdf",
-       "size": 882948,
-       "sizeh": "862.3 KB",
-       "viewable": true
-      },
-      {
-       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX02).pdf",
-       "type": "file",
-       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX02).pdf",
-       "ext": "pdf",
-       "size": 868394,
-       "sizeh": "848.0 KB",
-       "viewable": true
-      },
-      {
-       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VCB).pdf",
-       "type": "file",
-       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VCB).pdf",
-       "ext": "pdf",
-       "size": 838535,
-       "sizeh": "818.9 KB",
-       "viewable": true
-      },
-      {
-       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VV).pdf",
-       "type": "file",
-       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VV).pdf",
-       "ext": "pdf",
-       "size": 976482,
-       "sizeh": "953.6 KB",
-       "viewable": true
-      }
-     ],
-     "nfiles": 5
-    }
-   ],
-   "nfiles": 5
   }
  ]
 };
