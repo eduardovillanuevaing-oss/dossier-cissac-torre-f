@@ -1,6 +1,6 @@
 window.DOSSIER_DATA = {
- "generated": "06/07/2026 08:48",
- "totalFiles": 159,
+ "generated": "08/07/2026 10:32",
+ "totalFiles": 198,
  "backgrounds": [
   "_dossier_web/bg/casaparq-cerro-colorado-arequipa-cissac-scaled.jpg",
   "_dossier_web/bg/PARQUE-CENTRAL.jpg"
@@ -1617,6 +1617,392 @@ window.DOSSIER_DATA = {
     }
    ],
    "nfiles": 1
+  },
+  {
+   "name": "09. PLANOS AS BUILT",
+   "type": "folder",
+   "children": [
+    {
+     "name": "ACI",
+     "type": "folder",
+     "children": [
+      {
+       "name": "ACI-01-02 - Planta General - Etapa F.dwg",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-01-02 - Planta General - Etapa F.dwg",
+       "ext": "dwg",
+       "size": 4983024,
+       "sizeh": "4.8 MB",
+       "viewable": false
+      },
+      {
+       "name": "ACI-01.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-01.pdf",
+       "ext": "pdf",
+       "size": 4672465,
+       "sizeh": "4.5 MB",
+       "viewable": true
+      },
+      {
+       "name": "ACI-02.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-02.pdf",
+       "ext": "pdf",
+       "size": 7539858,
+       "sizeh": "7.2 MB",
+       "viewable": true
+      },
+      {
+       "name": "ACI-03-04-05-06 - Estacionamientos - Etapa F.dwg",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-03-04-05-06 - Estacionamientos - Etapa F.dwg",
+       "ext": "dwg",
+       "size": 1893621,
+       "sizeh": "1.8 MB",
+       "viewable": false
+      },
+      {
+       "name": "ACI-03.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-03.pdf",
+       "ext": "pdf",
+       "size": 881598,
+       "sizeh": "860.9 KB",
+       "viewable": true
+      },
+      {
+       "name": "ACI-04.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-04.pdf",
+       "ext": "pdf",
+       "size": 833643,
+       "sizeh": "814.1 KB",
+       "viewable": true
+      },
+      {
+       "name": "ACI-05.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-05.pdf",
+       "ext": "pdf",
+       "size": 913740,
+       "sizeh": "892.3 KB",
+       "viewable": true
+      },
+      {
+       "name": "ACI-06.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-06.pdf",
+       "ext": "pdf",
+       "size": 704379,
+       "sizeh": "687.9 KB",
+       "viewable": true
+      },
+      {
+       "name": "ACI-07-08-09 - Torre - Etapa F.dwg",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-07-08-09 - Torre - Etapa F.dwg",
+       "ext": "dwg",
+       "size": 2114889,
+       "sizeh": "2.0 MB",
+       "viewable": false
+      },
+      {
+       "name": "ACI-07.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-07.pdf",
+       "ext": "pdf",
+       "size": 2392742,
+       "sizeh": "2.3 MB",
+       "viewable": true
+      },
+      {
+       "name": "ACI-08.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-08.pdf",
+       "ext": "pdf",
+       "size": 2046246,
+       "sizeh": "2.0 MB",
+       "viewable": true
+      },
+      {
+       "name": "ACI-09.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-09.pdf",
+       "ext": "pdf",
+       "size": 2186216,
+       "sizeh": "2.1 MB",
+       "viewable": true
+      },
+      {
+       "name": "ACI-10-11 - Detalles.dwg",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-10-11 - Detalles.dwg",
+       "ext": "dwg",
+       "size": 9340687,
+       "sizeh": "8.9 MB",
+       "viewable": false
+      },
+      {
+       "name": "ACI-10.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-10.pdf",
+       "ext": "pdf",
+       "size": 1050501,
+       "sizeh": "1.0 MB",
+       "viewable": true
+      },
+      {
+       "name": "ACI-11.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/ACI/ACI-11.pdf",
+       "ext": "pdf",
+       "size": 424653,
+       "sizeh": "414.7 KB",
+       "viewable": true
+      }
+     ],
+     "nfiles": 15
+    },
+    {
+     "name": "DACI",
+     "type": "folder",
+     "children": [
+      {
+       "name": "DACI-01-02-03 - TORRE F.dwg",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/DACI/DACI-01-02-03 - TORRE F.dwg",
+       "ext": "dwg",
+       "size": 1987243,
+       "sizeh": "1.9 MB",
+       "viewable": false
+      },
+      {
+       "name": "DACI-01.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/DACI/DACI-01.pdf",
+       "ext": "pdf",
+       "size": 2018687,
+       "sizeh": "1.9 MB",
+       "viewable": true
+      },
+      {
+       "name": "DACI-02.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/DACI/DACI-02.pdf",
+       "ext": "pdf",
+       "size": 1860635,
+       "sizeh": "1.8 MB",
+       "viewable": true
+      },
+      {
+       "name": "DACI-03.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/DACI/DACI-03.pdf",
+       "ext": "pdf",
+       "size": 1120358,
+       "sizeh": "1.1 MB",
+       "viewable": true
+      },
+      {
+       "name": "DACI-04 - ESTACIONAMIENTO ETAPA F.dwg",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/DACI/DACI-04 - ESTACIONAMIENTO ETAPA F.dwg",
+       "ext": "dwg",
+       "size": 1523258,
+       "sizeh": "1.5 MB",
+       "viewable": false
+      },
+      {
+       "name": "DACI-04.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/DACI/DACI-04.pdf",
+       "ext": "pdf",
+       "size": 1275689,
+       "sizeh": "1.2 MB",
+       "viewable": true
+      }
+     ],
+     "nfiles": 6
+    },
+    {
+     "name": "IIMM",
+     "type": "folder",
+     "children": [
+      {
+       "name": "IM-01-02-03-04 TORRE F.dwg",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/IIMM/IM-01-02-03-04 TORRE F.dwg",
+       "ext": "dwg",
+       "size": 16371001,
+       "sizeh": "15.6 MB",
+       "viewable": false
+      },
+      {
+       "name": "IM-01.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/IIMM/IM-01.pdf",
+       "ext": "pdf",
+       "size": 1646845,
+       "sizeh": "1.6 MB",
+       "viewable": true
+      },
+      {
+       "name": "IM-02.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/IIMM/IM-02.pdf",
+       "ext": "pdf",
+       "size": 1462844,
+       "sizeh": "1.4 MB",
+       "viewable": true
+      },
+      {
+       "name": "IM-03.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/IIMM/IM-03.pdf",
+       "ext": "pdf",
+       "size": 1267184,
+       "sizeh": "1.2 MB",
+       "viewable": true
+      },
+      {
+       "name": "IM-04.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/IIMM/IM-04.pdf",
+       "ext": "pdf",
+       "size": 391887,
+       "sizeh": "382.7 KB",
+       "viewable": true
+      },
+      {
+       "name": "IM-05-06-07-08 ESTACIONAMIENTO ETAPA F.dwg",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/IIMM/IM-05-06-07-08 ESTACIONAMIENTO ETAPA F.dwg",
+       "ext": "dwg",
+       "size": 1678355,
+       "sizeh": "1.6 MB",
+       "viewable": false
+      },
+      {
+       "name": "IM-05.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/IIMM/IM-05.pdf",
+       "ext": "pdf",
+       "size": 562472,
+       "sizeh": "549.3 KB",
+       "viewable": true
+      },
+      {
+       "name": "IM-06.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/IIMM/IM-06.pdf",
+       "ext": "pdf",
+       "size": 208660,
+       "sizeh": "203.8 KB",
+       "viewable": true
+      },
+      {
+       "name": "IM-07.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/IIMM/IM-07.pdf",
+       "ext": "pdf",
+       "size": 208689,
+       "sizeh": "203.8 KB",
+       "viewable": true
+      },
+      {
+       "name": "IM-08.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/IIMM/IM-08.pdf",
+       "ext": "pdf",
+       "size": 214195,
+       "sizeh": "209.2 KB",
+       "viewable": true
+      },
+      {
+       "name": "IM-09-10 DETALLES.dwg",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/IIMM/IM-09-10 DETALLES.dwg",
+       "ext": "dwg",
+       "size": 695991,
+       "sizeh": "679.7 KB",
+       "viewable": false
+      },
+      {
+       "name": "IM-09.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/IIMM/IM-09.pdf",
+       "ext": "pdf",
+       "size": 320973,
+       "sizeh": "313.5 KB",
+       "viewable": true
+      },
+      {
+       "name": "IM-10.pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/IIMM/IM-10.pdf",
+       "ext": "pdf",
+       "size": 595620,
+       "sizeh": "581.7 KB",
+       "viewable": true
+      }
+     ],
+     "nfiles": 13
+    },
+    {
+     "name": "Tableros Electricos",
+     "type": "folder",
+     "children": [
+      {
+       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (ACI).pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (ACI).pdf",
+       "ext": "pdf",
+       "size": 825637,
+       "sizeh": "806.3 KB",
+       "viewable": true
+      },
+      {
+       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX01).pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX01).pdf",
+       "ext": "pdf",
+       "size": 882948,
+       "sizeh": "862.3 KB",
+       "viewable": true
+      },
+      {
+       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX02).pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (MONX02).pdf",
+       "ext": "pdf",
+       "size": 868394,
+       "sizeh": "848.0 KB",
+       "viewable": true
+      },
+      {
+       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VCB).pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VCB).pdf",
+       "ext": "pdf",
+       "size": 838535,
+       "sizeh": "818.9 KB",
+       "viewable": true
+      },
+      {
+       "name": "13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VV).pdf",
+       "type": "file",
+       "path": "09. PLANOS AS BUILT/Tableros Electricos/13 DIAGRAMA DE CONTROL, MANDO Y MECANICOS - AREQUIPA Model (VV).pdf",
+       "ext": "pdf",
+       "size": 976482,
+       "sizeh": "953.6 KB",
+       "viewable": true
+      }
+     ],
+     "nfiles": 5
+    }
+   ],
+   "nfiles": 39
   }
  ]
 };

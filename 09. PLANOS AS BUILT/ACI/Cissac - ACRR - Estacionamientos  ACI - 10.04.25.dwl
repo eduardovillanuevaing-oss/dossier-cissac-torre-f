@@ -1,3 +1,0 @@
-USUARIO
-DESKTOP-8RO88RA 
-sábado, 4 de julio de 2026  09:04:46
