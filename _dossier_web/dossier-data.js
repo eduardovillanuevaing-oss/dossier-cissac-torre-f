@@ -1,6 +1,6 @@
 window.DOSSIER_DATA = {
- "generated": "08/07/2026 10:32",
- "totalFiles": 198,
+ "generated": "08/07/2026 14:27",
+ "totalFiles": 202,
  "backgrounds": [
   "_dossier_web/bg/casaparq-cerro-colorado-arequipa-cissac-scaled.jpg",
   "_dossier_web/bg/PARQUE-CENTRAL.jpg"
@@ -2003,6 +2003,56 @@ window.DOSSIER_DATA = {
     }
    ],
    "nfiles": 39
+  },
+  {
+   "name": "10. PROCEDIMIENTO DE TRABAJO",
+   "type": "folder",
+   "children": [
+    {
+     "name": "PET Instalación de Agua Contra Incendios.pdf",
+     "type": "file",
+     "path": "10. PROCEDIMIENTO DE TRABAJO/PET Instalación de Agua Contra Incendios.pdf",
+     "ext": "pdf",
+     "size": 400880,
+     "sizeh": "391.5 KB",
+     "viewable": true
+    },
+    {
+     "name": "PET Instalación de deteccion y alarma contra incendio.pdf",
+     "type": "file",
+     "path": "10. PROCEDIMIENTO DE TRABAJO/PET Instalación de deteccion y alarma contra incendio.pdf",
+     "ext": "pdf",
+     "size": 200840,
+     "sizeh": "196.1 KB",
+     "viewable": true
+    },
+    {
+     "name": "PET Instalación Mecanica.pdf",
+     "type": "file",
+     "path": "10. PROCEDIMIENTO DE TRABAJO/PET Instalación Mecanica.pdf",
+     "ext": "pdf",
+     "size": 319521,
+     "sizeh": "312.0 KB",
+     "viewable": true
+    }
+   ],
+   "nfiles": 3
+  },
+  {
+   "name": "11. POST VENTA",
+   "type": "folder",
+   "children": [
+    {
+     "name": "CARTA DE POST VENTA.pdf",
+     "type": "file",
+     "path": "11. POST VENTA/CARTA DE POST VENTA.pdf",
+     "ext": "pdf",
+     "size": 191394,
+     "sizeh": "186.9 KB",
+     "viewable": true
+    }
+   ],
+   "nfiles": 1
   }
  ]
 };
